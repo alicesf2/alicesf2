@@ -1,3 +1,3 @@
 ### Hi, I'm Alice 🙋🏻‍♀️
 
-![banner](banner.png)
+![banner](https://github.com/alicesf2/alicesf2/blob/master/banner.png)
