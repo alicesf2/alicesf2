@@ -1,3 +1,3 @@
 ### Hi, I'm Alice 🙋🏻‍♀️
 
-![banner](banner.png)
+![banner](./banner.png)
