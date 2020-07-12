@@ -8,7 +8,7 @@ Except for dark theme. Always look for dark theme.
 
 ### Hi, I'm Alice 🙋🏻‍♀️
 
-I'm a fullstack developer who dabbles in data and design. I love teaching, learning, telling stories, and playing games. You can often find me at the intersection of my skills and passions. Or sleeping.
+I'm a fullstack developer who dabbles in data and design. I love teaching, learning, telling stories, and playing games. You can often find me at the intersection of these skills and passions. Or sleeping.
 
 My life in emojis: 🇺🇸🇨🇳🎹⛸🎮🐿🃏👩🏻‍💻💃🍵
 
