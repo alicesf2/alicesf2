@@ -1,5 +1,3 @@
 ### Hi, I'm Alice 👋
 
-I'm a software engineer with 4.5 years of experience crafting delightful web experiences. You can find my work across well-known media companies such as The Atlantic and National Geographic. Currently, I'm contracting at Amperos Health, a seed-stage AI healthcare startup automating claims processing.
-
-At Amperos, I'm building a project management system for medical billing teams.
+I'm a creative technologist with 5 years of software engineering experience. I'm currently on a career break, collaborating with friends and artists on interactive digital projects. 
